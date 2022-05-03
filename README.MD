@@ -1,4 +1,4 @@
-# This resposity is for paper "Multi-Scale U-Shape MLP for Hyperspectral Image Classification"
+# This repository is for paper "Multi-Scale U-Shape MLP for Hyperspectral Image Classification"
 # If you wanna use this code in your project. Pls cite it as following:
 ```
 @article{lin2022multi,
