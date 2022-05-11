@@ -1,5 +1,5 @@
 # This repository is for paper "Multi-Scale U-Shape MLP for Hyperspectral Image Classification"
-# If you wanna use this code in your project. Pls cite it as following:
+### If you wanna use this code in your project. Pls cite it as following:
 ```
 @article{lin2022multi,
   title={Multi-Scale U-Shape MLP for Hyperspectral Image Classification},
@@ -9,3 +9,14 @@
   publisher={IEEE}
 }
 ```
+## **Includes some resource about computation intelligence class.**
+
++ Slide of Presentation name : Computation intelligence/computation.ppt
++ Paper name : Computation intelligence/MUMLP.pdf
++ Revelent concepts : 
+    * Machine learning for classification
+	* Deep learning for classification
+	* Representation learning for classification
+	* Graph learning for classification
+
+
