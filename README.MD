@@ -9,14 +9,5 @@
   publisher={IEEE}
 }
 ```
-## **Includes some resource about computation intelligence class.**
-
-+ Slide of Presentation name : Computation intelligence/computation.ppt
-+ Paper name : Computation intelligence/MUMLP.pdf
-+ Revelent concepts : 
-    * Machine learning for classification
-	* Deep learning for classification
-	* Representation learning for classification
-	* Graph learning for classification
 
 
